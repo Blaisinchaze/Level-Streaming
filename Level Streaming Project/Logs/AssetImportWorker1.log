@@ -1,0 +1,1746 @@
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-BigBoiBlaise" (connect: 0.00s, validation: 0.00s, handshake: 1.37s)
+Entitlement-based licensing initiated
+[LicensingClient] Licenses updated successfully
+
+LICENSE SYSTEM [2021225 0:53:34] Next license update check is after 2020-10-22T12:32:49
+
+
+LICENSE SYSTEM [2021225 0:53:34] Current license is already valid and activated. Skipping license activation process (Provided username/password will be ignored).
+Built from '2020.1/staging' branch; Version is '2020.1.1f1 (2285c3239188) revision 2262467'; Using compiler version '192227905'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16346 MB
+[Licensing::Module] Serial number assigned to: "F4-JMVT-Q6P4-8KHV-39VM-XXXX"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Users\Charlie\Documents\My Games\2020.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+F:/Projects/LevelDtreamingProject
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57040
+Successfully changed project path to: F:/Projects/LevelDtreamingProject
+F:/Projects/LevelDtreamingProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 207.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.1.1f1 (2285c3239188)
+[Subsystems] Discovering subsystems at path E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Projects/LevelDtreamingProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5671
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008323 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 182.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.830 seconds
+Registering precompiled user dll's ...
+Registered in 0.454371 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 204.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 332ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.889 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 1.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4174 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.2 MB.
+System memory in use after: 167.3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 4580.
+Total: 6.553200 ms (FindLiveObjects: 1.179400 ms CreateObjectMapping: 0.219400 ms MarkObjects: 5.037700 ms  DeleteObjects: 0.107600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SceneDependencyCache/514df003b96405fe9b51a47a1a20cad4.sceneWithBuildSettings
+  artifactKey: Guid(514df003b96405fe9b51a47a1a20cad4) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/514df003b96405fe9b51a47a1a20cad4.sceneWithBuildSettings using Guid(514df003b96405fe9b51a47a1a20cad4) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/19.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/19.unity'
+	Deserialize:            2.275 ms
+	Integration:            58.115 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.848 ms
+	Total Operation Time:   77.241 ms
+ -> (target hash: '060ef5ebf0f8b672104342361fe03690') in 1.463055 seconds
+  Import took 1.483235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000626 seconds.
+  path: Assets/SceneDependencyCache/085b3be374c645dbf5a1307e8143cdf6.sceneWithBuildSettings
+  artifactKey: Guid(085b3be374c645dbf5a1307e8143cdf6) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/085b3be374c645dbf5a1307e8143cdf6.sceneWithBuildSettings using Guid(085b3be374c645dbf5a1307e8143cdf6) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/2.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/2.unity'
+	Deserialize:            1.977 ms
+	Integration:            32.692 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.940 ms
+	Total Operation Time:   51.614 ms
+ -> (target hash: '4d73b28d8ec8d213abb0187bc17c7ddb') in 0.208261 seconds
+  Import took 0.229201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/SceneDependencyCache/d66187bf01599f5981e0b7790acd9eed.sceneWithBuildSettings
+  artifactKey: Guid(d66187bf01599f5981e0b7790acd9eed) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/d66187bf01599f5981e0b7790acd9eed.sceneWithBuildSettings using Guid(d66187bf01599f5981e0b7790acd9eed) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/8.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/8.unity'
+	Deserialize:            1.723 ms
+	Integration:            32.652 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.314 ms
+	Total Operation Time:   51.695 ms
+ -> (target hash: 'ad4a48f139c10dd4f358948307a9cf33') in 0.195613 seconds
+  Import took 0.215130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/SceneDependencyCache/52fda436dc4245615ea15fc43acb2a84.sceneWithBuildSettings
+  artifactKey: Guid(52fda436dc4245615ea15fc43acb2a84) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/52fda436dc4245615ea15fc43acb2a84.sceneWithBuildSettings using Guid(52fda436dc4245615ea15fc43acb2a84) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/25.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/25.unity'
+	Deserialize:            2.721 ms
+	Integration:            28.449 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.179 ms
+	Total Operation Time:   47.354 ms
+ -> (target hash: '51e2c67846ff953104e18b29ef7b7e86') in 0.226873 seconds
+  Import took 0.246904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/SceneDependencyCache/368ea52e67b40520afb711f9c2e2c0b7.sceneWithBuildSettings
+  artifactKey: Guid(368ea52e67b40520afb711f9c2e2c0b7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/368ea52e67b40520afb711f9c2e2c0b7.sceneWithBuildSettings using Guid(368ea52e67b40520afb711f9c2e2c0b7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/6.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/6.unity'
+	Deserialize:            2.086 ms
+	Integration:            45.713 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.506 ms
+	Total Operation Time:   64.307 ms
+ -> (target hash: '597ff3278b25b2ce702cae91874b2153') in 0.228158 seconds
+  Import took 0.246405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SceneDependencyCache/3221e67ccd792c409544ece05a2e9f5f.sceneWithBuildSettings
+  artifactKey: Guid(3221e67ccd792c409544ece05a2e9f5f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/3221e67ccd792c409544ece05a2e9f5f.sceneWithBuildSettings using Guid(3221e67ccd792c409544ece05a2e9f5f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/22.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/22.unity'
+	Deserialize:            1.504 ms
+	Integration:            16.595 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.129 ms
+	Total Operation Time:   35.231 ms
+ -> (target hash: 'f06c5e2659cacba8aef643eff2543a57') in 0.184379 seconds
+  Import took 0.205284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/SceneDependencyCache/2ee8a55747bb0ae7e806c6ca2fff52be.sceneWithBuildSettings
+  artifactKey: Guid(2ee8a55747bb0ae7e806c6ca2fff52be) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/2ee8a55747bb0ae7e806c6ca2fff52be.sceneWithBuildSettings using Guid(2ee8a55747bb0ae7e806c6ca2fff52be) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/12.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/12.unity'
+	Deserialize:            2.316 ms
+	Integration:            41.000 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.588 ms
+	Total Operation Time:   59.908 ms
+ -> (target hash: '076146476883a80e203cb2e6a460f0e8') in 0.222748 seconds
+  Import took 0.248510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/SceneDependencyCache/7154a7c0a4039e739c8ad57ec9ce7e63.sceneWithBuildSettings
+  artifactKey: Guid(7154a7c0a4039e739c8ad57ec9ce7e63) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/7154a7c0a4039e739c8ad57ec9ce7e63.sceneWithBuildSettings using Guid(7154a7c0a4039e739c8ad57ec9ce7e63) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/10.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/10.unity'
+	Deserialize:            2.688 ms
+	Integration:            43.361 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       15.958 ms
+	Total Operation Time:   62.011 ms
+ -> (target hash: '3cc0df2288949011484486d2b579e251') in 0.244377 seconds
+  Import took 0.270520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/SceneDependencyCache/756a22d5d2f6caee21e8698e07211f45.sceneWithBuildSettings
+  artifactKey: Guid(756a22d5d2f6caee21e8698e07211f45) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/756a22d5d2f6caee21e8698e07211f45.sceneWithBuildSettings using Guid(756a22d5d2f6caee21e8698e07211f45) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/11.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/11.unity'
+	Deserialize:            2.057 ms
+	Integration:            43.401 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.803 ms
+	Total Operation Time:   63.265 ms
+ -> (target hash: '4ba02f87ead879d24b33387f4b0a16d5') in 0.268028 seconds
+  Import took 0.290944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/SceneDependencyCache/59fed9c6a3063ea4d5dd030439163650.sceneWithBuildSettings
+  artifactKey: Guid(59fed9c6a3063ea4d5dd030439163650) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/59fed9c6a3063ea4d5dd030439163650.sceneWithBuildSettings using Guid(59fed9c6a3063ea4d5dd030439163650) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/4.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/4.unity'
+	Deserialize:            2.772 ms
+	Integration:            53.942 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.291 ms
+	Total Operation Time:   73.008 ms
+ -> (target hash: '0cf805448e332e2f31dd69158ad82f8f') in 0.233873 seconds
+  Import took 0.254200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000842 seconds.
+  path: Assets/SceneDependencyCache/0ac214f4cecdf9da3e580a0372e68b94.sceneWithBuildSettings
+  artifactKey: Guid(0ac214f4cecdf9da3e580a0372e68b94) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/0ac214f4cecdf9da3e580a0372e68b94.sceneWithBuildSettings using Guid(0ac214f4cecdf9da3e580a0372e68b94) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/15.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/15.unity'
+	Deserialize:            2.813 ms
+	Integration:            28.117 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.132 ms
+	Total Operation Time:   47.065 ms
+ -> (target hash: '82ff6410e8cd8d5bec15b5eda626b576') in 0.209305 seconds
+  Import took 0.232057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/SceneDependencyCache/490a0a0cd0f1caf2b1a06934efeed946.sceneWithBuildSettings
+  artifactKey: Guid(490a0a0cd0f1caf2b1a06934efeed946) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/490a0a0cd0f1caf2b1a06934efeed946.sceneWithBuildSettings using Guid(490a0a0cd0f1caf2b1a06934efeed946) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/5.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/5.unity'
+	Deserialize:            2.080 ms
+	Integration:            53.722 ms
+	Integration of assets:  0.006 ms
+	Thread Wait Time:       16.995 ms
+	Total Operation Time:   72.803 ms
+ -> (target hash: '6a7f04c5a77f7119d52ae47f359780cb') in 0.244756 seconds
+  Import took 0.265777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/SceneDependencyCache/7ad89049e836de8c4dfeae7ed9e8a014.sceneWithBuildSettings
+  artifactKey: Guid(7ad89049e836de8c4dfeae7ed9e8a014) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/7ad89049e836de8c4dfeae7ed9e8a014.sceneWithBuildSettings using Guid(7ad89049e836de8c4dfeae7ed9e8a014) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/13.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/13.unity'
+	Deserialize:            1.791 ms
+	Integration:            59.654 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       16.909 ms
+	Total Operation Time:   78.358 ms
+ -> (target hash: 'b0a77c9e2c9ed8c2da090497994b9743') in 0.225689 seconds
+  Import took 0.243945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001464 seconds.
+  path: Assets/SceneDependencyCache/68b8e9a85920afe40523e32a982d46c0.sceneWithBuildSettings
+  artifactKey: Guid(68b8e9a85920afe40523e32a982d46c0) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/68b8e9a85920afe40523e32a982d46c0.sceneWithBuildSettings using Guid(68b8e9a85920afe40523e32a982d46c0) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/7.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/7.unity'
+	Deserialize:            2.503 ms
+	Integration:            31.311 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.869 ms
+	Total Operation Time:   50.686 ms
+ -> (target hash: '98a44c909df8693a26053efb6069bb1b') in 0.200329 seconds
+  Import took 0.221478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/SceneDependencyCache/616dd975f72c490f81d9e55029291cde.sceneWithBuildSettings
+  artifactKey: Guid(616dd975f72c490f81d9e55029291cde) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/616dd975f72c490f81d9e55029291cde.sceneWithBuildSettings using Guid(616dd975f72c490f81d9e55029291cde) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/18.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/18.unity'
+	Deserialize:            2.479 ms
+	Integration:            22.215 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       16.410 ms
+	Total Operation Time:   41.109 ms
+ -> (target hash: 'a442f05f948eff0f47f5f760aa35a756') in 0.184655 seconds
+  Import took 0.208461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/SceneDependencyCache/657e989c476e60fe764fea25ad8fe473.sceneWithBuildSettings
+  artifactKey: Guid(657e989c476e60fe764fea25ad8fe473) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/657e989c476e60fe764fea25ad8fe473.sceneWithBuildSettings using Guid(657e989c476e60fe764fea25ad8fe473) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/1.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/1.unity'
+	Deserialize:            1.604 ms
+	Integration:            54.294 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.277 ms
+	Total Operation Time:   73.178 ms
+ -> (target hash: 'b59d23b26fe28282e5b8ce0ff2e09fc2') in 0.220795 seconds
+  Import took 0.242398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/SceneDependencyCache/e9004f8d5f9253381002dc230c1bbaf8.sceneWithBuildSettings
+  artifactKey: Guid(e9004f8d5f9253381002dc230c1bbaf8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/e9004f8d5f9253381002dc230c1bbaf8.sceneWithBuildSettings using Guid(e9004f8d5f9253381002dc230c1bbaf8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/3.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/3.unity'
+	Deserialize:            1.883 ms
+	Integration:            27.500 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.708 ms
+	Total Operation Time:   47.095 ms
+ -> (target hash: 'b12190f243159be5a4ef7ac5fa4e2320') in 0.207600 seconds
+  Import took 0.234821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001654 seconds.
+  path: Assets/SceneDependencyCache/aa151dab5bbeedc9d0d442f8a57fee11.sceneWithBuildSettings
+  artifactKey: Guid(aa151dab5bbeedc9d0d442f8a57fee11) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/aa151dab5bbeedc9d0d442f8a57fee11.sceneWithBuildSettings using Guid(aa151dab5bbeedc9d0d442f8a57fee11) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/23.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/23.unity'
+	Deserialize:            3.032 ms
+	Integration:            65.553 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       15.629 ms
+	Total Operation Time:   84.220 ms
+ -> (target hash: '52c02336487754c66e495a6e6ec47466') in 0.293829 seconds
+  Import took 0.321500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/SceneDependencyCache/12b6a23b7ce85aab2c824377fdef810f.sceneWithBuildSettings
+  artifactKey: Guid(12b6a23b7ce85aab2c824377fdef810f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/12b6a23b7ce85aab2c824377fdef810f.sceneWithBuildSettings using Guid(12b6a23b7ce85aab2c824377fdef810f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/16.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/16.unity'
+	Deserialize:            2.870 ms
+	Integration:            71.681 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       15.767 ms
+	Total Operation Time:   90.322 ms
+ -> (target hash: '58fc34f69a572b41d38313f13e9cc618') in 0.265947 seconds
+  Import took 0.285096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/SceneDependencyCache/fb77e2f02f1fa62e4b2d2c991ccfae9a.sceneWithBuildSettings
+  artifactKey: Guid(fb77e2f02f1fa62e4b2d2c991ccfae9a) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/fb77e2f02f1fa62e4b2d2c991ccfae9a.sceneWithBuildSettings using Guid(fb77e2f02f1fa62e4b2d2c991ccfae9a) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/9.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/9.unity'
+	Deserialize:            1.831 ms
+	Integration:            15.703 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.015 ms
+	Total Operation Time:   34.554 ms
+ -> (target hash: '31e7acafad53e67795db3919952d66f1') in 0.152953 seconds
+  Import took 0.171015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/SceneDependencyCache/44ef6446f1962e1b8a9302806b2715a8.sceneWithBuildSettings
+  artifactKey: Guid(44ef6446f1962e1b8a9302806b2715a8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/44ef6446f1962e1b8a9302806b2715a8.sceneWithBuildSettings using Guid(44ef6446f1962e1b8a9302806b2715a8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/17.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/17.unity'
+	Deserialize:            1.748 ms
+	Integration:            21.033 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.072 ms
+	Total Operation Time:   39.859 ms
+ -> (target hash: '110b6987bc6cfc46eefdcdfe0c1ba381') in 0.197552 seconds
+  Import took 0.216523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/SceneDependencyCache/8d3d18d1c66941ed2e95a1cfc4f46479.sceneWithBuildSettings
+  artifactKey: Guid(8d3d18d1c66941ed2e95a1cfc4f46479) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/8d3d18d1c66941ed2e95a1cfc4f46479.sceneWithBuildSettings using Guid(8d3d18d1c66941ed2e95a1cfc4f46479) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/21.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/21.unity'
+	Deserialize:            2.958 ms
+	Integration:            64.039 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       15.945 ms
+	Total Operation Time:   82.946 ms
+ -> (target hash: '2391b7e33f8d0406c568bc6ad83c588e') in 0.249573 seconds
+  Import took 0.269058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/SceneDependencyCache/deaf30dad1f8f03ed22c18e6dffaeca7.sceneWithBuildSettings
+  artifactKey: Guid(deaf30dad1f8f03ed22c18e6dffaeca7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/deaf30dad1f8f03ed22c18e6dffaeca7.sceneWithBuildSettings using Guid(deaf30dad1f8f03ed22c18e6dffaeca7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/14.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/14.unity'
+	Deserialize:            1.924 ms
+	Integration:            23.517 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       19.613 ms
+	Total Operation Time:   45.059 ms
+ -> (target hash: '864fc4515b5522a55922f9687df425b0') in 0.173724 seconds
+  Import took 0.191857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/SceneDependencyCache/b90f7c59f59606de8a8e2603e9bfe16b.sceneWithBuildSettings
+  artifactKey: Guid(b90f7c59f59606de8a8e2603e9bfe16b) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/b90f7c59f59606de8a8e2603e9bfe16b.sceneWithBuildSettings using Guid(b90f7c59f59606de8a8e2603e9bfe16b) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/24.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/24.unity'
+	Deserialize:            2.045 ms
+	Integration:            10.940 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.201 ms
+	Total Operation Time:   30.190 ms
+ -> (target hash: '8cedb141fc3130bf3af1bb6f12314b70') in 0.188418 seconds
+  Import took 0.208164 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005877 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 187.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 262ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.819 seconds
+Registering precompiled user dll's ...
+Registered in 0.409596 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 294ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 86 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.7 MB.
+System memory in use after: 132.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4677.
+Total: 5.767200 ms (FindLiveObjects: 1.008500 ms CreateObjectMapping: 0.213200 ms MarkObjects: 4.478600 ms  DeleteObjects: 0.066200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006450 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 164.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 275ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.795 seconds
+Registering precompiled user dll's ...
+Registered in 0.391973 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 293ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.751 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.2 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4685.
+Total: 5.794500 ms (FindLiveObjects: 0.931400 ms CreateObjectMapping: 0.208100 ms MarkObjects: 4.586900 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006374 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 182.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 305ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.141 seconds
+Registering precompiled user dll's ...
+Registered in 0.443558 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 308ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.258 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.3 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4693.
+Total: 6.966400 ms (FindLiveObjects: 1.284200 ms CreateObjectMapping: 0.321900 ms MarkObjects: 5.276300 ms  DeleteObjects: 0.082900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1278.991950 seconds.
+  path: Assets/SceneDependencyCache/514df003b96405fe9b51a47a1a20cad4.sceneWithBuildSettings
+  artifactKey: Guid(514df003b96405fe9b51a47a1a20cad4) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/514df003b96405fe9b51a47a1a20cad4.sceneWithBuildSettings using Guid(514df003b96405fe9b51a47a1a20cad4) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/19.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/19.unity'
+	Deserialize:            1.791 ms
+	Integration:            38.123 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.858 ms
+	Total Operation Time:   56.776 ms
+ -> (target hash: 'ed7242374316429b9edd2e3e0c49f78a') in 0.712517 seconds
+  Import took 0.726284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/SceneDependencyCache/085b3be374c645dbf5a1307e8143cdf6.sceneWithBuildSettings
+  artifactKey: Guid(085b3be374c645dbf5a1307e8143cdf6) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/085b3be374c645dbf5a1307e8143cdf6.sceneWithBuildSettings using Guid(085b3be374c645dbf5a1307e8143cdf6) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/2.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/2.unity'
+	Deserialize:            1.494 ms
+	Integration:            12.801 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       17.226 ms
+	Total Operation Time:   31.524 ms
+ -> (target hash: 'ddcfb03ec8ac5ca1beb44626da066dc3') in 0.092991 seconds
+  Import took 0.104404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/SceneDependencyCache/d66187bf01599f5981e0b7790acd9eed.sceneWithBuildSettings
+  artifactKey: Guid(d66187bf01599f5981e0b7790acd9eed) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/d66187bf01599f5981e0b7790acd9eed.sceneWithBuildSettings using Guid(d66187bf01599f5981e0b7790acd9eed) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/8.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/8.unity'
+	Deserialize:            1.648 ms
+	Integration:            7.181 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.301 ms
+	Total Operation Time:   26.134 ms
+ -> (target hash: '651a548764b3a38ad308454eea5be378') in 0.091948 seconds
+  Import took 0.103397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/SceneDependencyCache/52fda436dc4245615ea15fc43acb2a84.sceneWithBuildSettings
+  artifactKey: Guid(52fda436dc4245615ea15fc43acb2a84) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/52fda436dc4245615ea15fc43acb2a84.sceneWithBuildSettings using Guid(52fda436dc4245615ea15fc43acb2a84) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/25.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/25.unity'
+	Deserialize:            1.674 ms
+	Integration:            15.614 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       17.127 ms
+	Total Operation Time:   34.417 ms
+ -> (target hash: 'cc932a231323676c8e1c8d61b2df077b') in 0.109774 seconds
+  Import took 0.121232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SceneDependencyCache/368ea52e67b40520afb711f9c2e2c0b7.sceneWithBuildSettings
+  artifactKey: Guid(368ea52e67b40520afb711f9c2e2c0b7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/368ea52e67b40520afb711f9c2e2c0b7.sceneWithBuildSettings using Guid(368ea52e67b40520afb711f9c2e2c0b7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/6.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/6.unity'
+	Deserialize:            1.607 ms
+	Integration:            9.714 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.344 ms
+	Total Operation Time:   28.669 ms
+ -> (target hash: '23b2ff04d65c1c99609ee9218f767d9a') in 0.097410 seconds
+  Import took 0.111710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/SceneDependencyCache/3221e67ccd792c409544ece05a2e9f5f.sceneWithBuildSettings
+  artifactKey: Guid(3221e67ccd792c409544ece05a2e9f5f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/3221e67ccd792c409544ece05a2e9f5f.sceneWithBuildSettings using Guid(3221e67ccd792c409544ece05a2e9f5f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/22.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/22.unity'
+	Deserialize:            1.270 ms
+	Integration:            7.880 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.821 ms
+	Total Operation Time:   26.975 ms
+ -> (target hash: '8e8528aa7a21529b6b97eff53137100c') in 0.085224 seconds
+  Import took 0.096946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/SceneDependencyCache/2ee8a55747bb0ae7e806c6ca2fff52be.sceneWithBuildSettings
+  artifactKey: Guid(2ee8a55747bb0ae7e806c6ca2fff52be) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/2ee8a55747bb0ae7e806c6ca2fff52be.sceneWithBuildSettings using Guid(2ee8a55747bb0ae7e806c6ca2fff52be) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/12.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/12.unity'
+	Deserialize:            1.624 ms
+	Integration:            7.489 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.064 ms
+	Total Operation Time:   26.182 ms
+ -> (target hash: '05ed285fba9692c021846c831add3000') in 0.096505 seconds
+  Import took 0.107529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/SceneDependencyCache/7154a7c0a4039e739c8ad57ec9ce7e63.sceneWithBuildSettings
+  artifactKey: Guid(7154a7c0a4039e739c8ad57ec9ce7e63) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/7154a7c0a4039e739c8ad57ec9ce7e63.sceneWithBuildSettings using Guid(7154a7c0a4039e739c8ad57ec9ce7e63) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/10.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/10.unity'
+	Deserialize:            1.657 ms
+	Integration:            12.384 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.656 ms
+	Total Operation Time:   30.700 ms
+ -> (target hash: 'b00dcf9666ba133774e7d6c26f81e3a1') in 0.107432 seconds
+  Import took 0.119043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/SceneDependencyCache/756a22d5d2f6caee21e8698e07211f45.sceneWithBuildSettings
+  artifactKey: Guid(756a22d5d2f6caee21e8698e07211f45) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/756a22d5d2f6caee21e8698e07211f45.sceneWithBuildSettings using Guid(756a22d5d2f6caee21e8698e07211f45) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/11.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/11.unity'
+	Deserialize:            1.990 ms
+	Integration:            13.522 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.537 ms
+	Total Operation Time:   32.053 ms
+ -> (target hash: '9d251e9f98ed64334ab0fa999c597ffe') in 0.115064 seconds
+  Import took 0.129046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/SceneDependencyCache/59fed9c6a3063ea4d5dd030439163650.sceneWithBuildSettings
+  artifactKey: Guid(59fed9c6a3063ea4d5dd030439163650) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/59fed9c6a3063ea4d5dd030439163650.sceneWithBuildSettings using Guid(59fed9c6a3063ea4d5dd030439163650) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/4.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/4.unity'
+	Deserialize:            1.725 ms
+	Integration:            3.371 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.945 ms
+	Total Operation Time:   22.043 ms
+ -> (target hash: '5f5a5ca27ecc6af5267b2bf3118945d7') in 0.097035 seconds
+  Import took 0.110189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/SceneDependencyCache/0ac214f4cecdf9da3e580a0372e68b94.sceneWithBuildSettings
+  artifactKey: Guid(0ac214f4cecdf9da3e580a0372e68b94) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/0ac214f4cecdf9da3e580a0372e68b94.sceneWithBuildSettings using Guid(0ac214f4cecdf9da3e580a0372e68b94) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/15.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/15.unity'
+	Deserialize:            2.111 ms
+	Integration:            13.922 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.822 ms
+	Total Operation Time:   32.857 ms
+ -> (target hash: '6db6f12183da72e6e2572d5034aa26f1') in 0.104678 seconds
+  Import took 0.117257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/SceneDependencyCache/490a0a0cd0f1caf2b1a06934efeed946.sceneWithBuildSettings
+  artifactKey: Guid(490a0a0cd0f1caf2b1a06934efeed946) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/490a0a0cd0f1caf2b1a06934efeed946.sceneWithBuildSettings using Guid(490a0a0cd0f1caf2b1a06934efeed946) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/5.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/5.unity'
+	Deserialize:            1.720 ms
+	Integration:            3.898 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.347 ms
+	Total Operation Time:   22.967 ms
+ -> (target hash: 'b378b9640f9ec779540d8b547f7a8be4') in 0.094693 seconds
+  Import took 0.108061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/SceneDependencyCache/7ad89049e836de8c4dfeae7ed9e8a014.sceneWithBuildSettings
+  artifactKey: Guid(7ad89049e836de8c4dfeae7ed9e8a014) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/7ad89049e836de8c4dfeae7ed9e8a014.sceneWithBuildSettings using Guid(7ad89049e836de8c4dfeae7ed9e8a014) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/13.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/13.unity'
+	Deserialize:            1.645 ms
+	Integration:            38.511 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.833 ms
+	Total Operation Time:   56.992 ms
+ -> (target hash: '81d0257d19a4b161879e0c4514bf262f') in 0.124168 seconds
+  Import took 0.137869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/SceneDependencyCache/68b8e9a85920afe40523e32a982d46c0.sceneWithBuildSettings
+  artifactKey: Guid(68b8e9a85920afe40523e32a982d46c0) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/68b8e9a85920afe40523e32a982d46c0.sceneWithBuildSettings using Guid(68b8e9a85920afe40523e32a982d46c0) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/7.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/7.unity'
+	Deserialize:            1.775 ms
+	Integration:            3.251 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       16.736 ms
+	Total Operation Time:   21.767 ms
+ -> (target hash: '0f8d64d6f5d5165135740832e2992eef') in 0.089331 seconds
+  Import took 0.102559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/SceneDependencyCache/616dd975f72c490f81d9e55029291cde.sceneWithBuildSettings
+  artifactKey: Guid(616dd975f72c490f81d9e55029291cde) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/616dd975f72c490f81d9e55029291cde.sceneWithBuildSettings using Guid(616dd975f72c490f81d9e55029291cde) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/18.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/18.unity'
+	Deserialize:            1.825 ms
+	Integration:            2.332 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.504 ms
+	Total Operation Time:   20.664 ms
+ -> (target hash: 'ee6e50c25968578c043558834f88ffd0') in 0.079861 seconds
+  Import took 0.092480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SceneDependencyCache/657e989c476e60fe764fea25ad8fe473.sceneWithBuildSettings
+  artifactKey: Guid(657e989c476e60fe764fea25ad8fe473) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/657e989c476e60fe764fea25ad8fe473.sceneWithBuildSettings using Guid(657e989c476e60fe764fea25ad8fe473) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/1.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/1.unity'
+	Deserialize:            1.547 ms
+	Integration:            2.902 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.273 ms
+	Total Operation Time:   21.725 ms
+ -> (target hash: '3e28f1b0dc6435cb99d794456437cafa') in 0.077550 seconds
+  Import took 0.090502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SceneDependencyCache/e9004f8d5f9253381002dc230c1bbaf8.sceneWithBuildSettings
+  artifactKey: Guid(e9004f8d5f9253381002dc230c1bbaf8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/e9004f8d5f9253381002dc230c1bbaf8.sceneWithBuildSettings using Guid(e9004f8d5f9253381002dc230c1bbaf8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/3.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/3.unity'
+	Deserialize:            1.620 ms
+	Integration:            3.255 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.290 ms
+	Total Operation Time:   22.169 ms
+ -> (target hash: '5aef3ef71e2429faa0cd223915a4fc08') in 0.096023 seconds
+  Import took 0.108698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/SceneDependencyCache/aa151dab5bbeedc9d0d442f8a57fee11.sceneWithBuildSettings
+  artifactKey: Guid(aa151dab5bbeedc9d0d442f8a57fee11) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/aa151dab5bbeedc9d0d442f8a57fee11.sceneWithBuildSettings using Guid(aa151dab5bbeedc9d0d442f8a57fee11) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/23.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/23.unity'
+	Deserialize:            2.335 ms
+	Integration:            4.715 ms
+	Integration of assets:  0.014 ms
+	Thread Wait Time:       16.856 ms
+	Total Operation Time:   23.920 ms
+ -> (target hash: 'd173a7c69c07f4dc0320fb409ed90089') in 0.093185 seconds
+  Import took 0.106910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/SceneDependencyCache/12b6a23b7ce85aab2c824377fdef810f.sceneWithBuildSettings
+  artifactKey: Guid(12b6a23b7ce85aab2c824377fdef810f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/12b6a23b7ce85aab2c824377fdef810f.sceneWithBuildSettings using Guid(12b6a23b7ce85aab2c824377fdef810f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/16.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/16.unity'
+	Deserialize:            1.790 ms
+	Integration:            4.976 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.309 ms
+	Total Operation Time:   24.079 ms
+ -> (target hash: 'f5b8ec675d0b17a45dd22f94677580ae') in 0.094710 seconds
+  Import took 0.108498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/SceneDependencyCache/fb77e2f02f1fa62e4b2d2c991ccfae9a.sceneWithBuildSettings
+  artifactKey: Guid(fb77e2f02f1fa62e4b2d2c991ccfae9a) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/fb77e2f02f1fa62e4b2d2c991ccfae9a.sceneWithBuildSettings using Guid(fb77e2f02f1fa62e4b2d2c991ccfae9a) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/9.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/9.unity'
+	Deserialize:            1.323 ms
+	Integration:            2.891 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.349 ms
+	Total Operation Time:   21.567 ms
+ -> (target hash: '624efd9aaeef4aa180b9cbf098f4edd3') in 0.096185 seconds
+  Import took 0.109970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/SceneDependencyCache/44ef6446f1962e1b8a9302806b2715a8.sceneWithBuildSettings
+  artifactKey: Guid(44ef6446f1962e1b8a9302806b2715a8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/44ef6446f1962e1b8a9302806b2715a8.sceneWithBuildSettings using Guid(44ef6446f1962e1b8a9302806b2715a8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/17.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/17.unity'
+	Deserialize:            1.381 ms
+	Integration:            2.580 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.417 ms
+	Total Operation Time:   21.381 ms
+ -> (target hash: '22e0c4be03bccfd57645a1d9d2eea508') in 0.086253 seconds
+  Import took 0.100256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/SceneDependencyCache/8d3d18d1c66941ed2e95a1cfc4f46479.sceneWithBuildSettings
+  artifactKey: Guid(8d3d18d1c66941ed2e95a1cfc4f46479) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/8d3d18d1c66941ed2e95a1cfc4f46479.sceneWithBuildSettings using Guid(8d3d18d1c66941ed2e95a1cfc4f46479) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/21.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/21.unity'
+	Deserialize:            1.621 ms
+	Integration:            4.037 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.525 ms
+	Total Operation Time:   23.188 ms
+ -> (target hash: 'd7dee8df5d1f5f958aa3dd07fcb1df1e') in 0.097324 seconds
+  Import took 0.111133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/SceneDependencyCache/deaf30dad1f8f03ed22c18e6dffaeca7.sceneWithBuildSettings
+  artifactKey: Guid(deaf30dad1f8f03ed22c18e6dffaeca7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/deaf30dad1f8f03ed22c18e6dffaeca7.sceneWithBuildSettings using Guid(deaf30dad1f8f03ed22c18e6dffaeca7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/14.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/14.unity'
+	Deserialize:            1.487 ms
+	Integration:            3.201 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.212 ms
+	Total Operation Time:   21.904 ms
+ -> (target hash: 'e2228125f417fba9ae576e17a0de9c83') in 0.087164 seconds
+  Import took 0.100608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/SceneDependencyCache/b90f7c59f59606de8a8e2603e9bfe16b.sceneWithBuildSettings
+  artifactKey: Guid(b90f7c59f59606de8a8e2603e9bfe16b) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/b90f7c59f59606de8a8e2603e9bfe16b.sceneWithBuildSettings using Guid(b90f7c59f59606de8a8e2603e9bfe16b) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/24.unity additively'
+Loaded scene 'Assets/polyperfect/Low Poly Ultimate Pack/04 - City/24.unity'
+	Deserialize:            1.538 ms
+	Integration:            3.547 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.647 ms
+	Total Operation Time:   22.737 ms
+ -> (target hash: '806da5f6e9ad498429bdd9dcd85b7cc0') in 0.092415 seconds
+  Import took 0.106057 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007066 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 192.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 318ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.655 seconds
+Registering precompiled user dll's ...
+Registered in 0.469710 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 265ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4725.
+Total: 5.859200 ms (FindLiveObjects: 0.964600 ms CreateObjectMapping: 0.204600 ms MarkObjects: 4.612600 ms  DeleteObjects: 0.076900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006499 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 180.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 269ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.416 seconds
+Registering precompiled user dll's ...
+Registered in 0.410643 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 258ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4733.
+Total: 6.023400 ms (FindLiveObjects: 0.967500 ms CreateObjectMapping: 0.207300 ms MarkObjects: 4.753900 ms  DeleteObjects: 0.094300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007774 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 202.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 313ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.056 seconds
+Registering precompiled user dll's ...
+Registered in 0.472415 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 2.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 314ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.973 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4741.
+Total: 7.372000 ms (FindLiveObjects: 1.189200 ms CreateObjectMapping: 0.479600 ms MarkObjects: 5.613700 ms  DeleteObjects: 0.088400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008297 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 183.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 294ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.735 seconds
+Registering precompiled user dll's ...
+Registered in 0.437621 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 292ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.752 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4749.
+Total: 8.009900 ms (FindLiveObjects: 1.167600 ms CreateObjectMapping: 0.255200 ms MarkObjects: 6.502800 ms  DeleteObjects: 0.082800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006652 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 171.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 262ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.731 seconds
+Registering precompiled user dll's ...
+Registered in 0.398009 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 287ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.684 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4757.
+Total: 6.771600 ms (FindLiveObjects: 1.179000 ms CreateObjectMapping: 0.289200 ms MarkObjects: 5.225000 ms  DeleteObjects: 0.077700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005852 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 167.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 274ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.820 seconds
+Registering precompiled user dll's ...
+Registered in 0.407903 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 2.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 271ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.803 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4765.
+Total: 5.863400 ms (FindLiveObjects: 0.969500 ms CreateObjectMapping: 0.208200 ms MarkObjects: 4.606800 ms  DeleteObjects: 0.078200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006447 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 172.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 277ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.401 seconds
+Registering precompiled user dll's ...
+Registered in 0.406554 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 266ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4773.
+Total: 6.025200 ms (FindLiveObjects: 1.027500 ms CreateObjectMapping: 0.202500 ms MarkObjects: 4.696900 ms  DeleteObjects: 0.097700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005836 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 169.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 266ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.118 seconds
+Registering precompiled user dll's ...
+Registered in 0.400751 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 263ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.0 MB.
+System memory in use after: 167.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4781.
+Total: 6.003000 ms (FindLiveObjects: 0.972300 ms CreateObjectMapping: 0.209200 ms MarkObjects: 4.746900 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 776.447206 seconds.
+  path: Assets/SceneDependencyCache/d66187bf01599f5981e0b7790acd9eed.sceneWithBuildSettings
+  artifactKey: Guid(d66187bf01599f5981e0b7790acd9eed) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/d66187bf01599f5981e0b7790acd9eed.sceneWithBuildSettings using Guid(d66187bf01599f5981e0b7790acd9eed) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/8.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/8.unity'
+	Deserialize:            1.820 ms
+	Integration:            4.519 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.932 ms
+	Total Operation Time:   23.275 ms
+ -> (target hash: '814efe10effcc70b08627640641edf2a') in 0.618749 seconds
+  Import took 0.633066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/SceneDependencyCache/514df003b96405fe9b51a47a1a20cad4.sceneWithBuildSettings
+  artifactKey: Guid(514df003b96405fe9b51a47a1a20cad4) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/514df003b96405fe9b51a47a1a20cad4.sceneWithBuildSettings using Guid(514df003b96405fe9b51a47a1a20cad4) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/19.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/19.unity'
+	Deserialize:            1.767 ms
+	Integration:            3.392 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.838 ms
+	Total Operation Time:   22.000 ms
+ -> (target hash: 'c7fbdbe413dddf4ece0174a1cf685180') in 0.110283 seconds
+  Import took 0.121571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SceneDependencyCache/085b3be374c645dbf5a1307e8143cdf6.sceneWithBuildSettings
+  artifactKey: Guid(085b3be374c645dbf5a1307e8143cdf6) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/085b3be374c645dbf5a1307e8143cdf6.sceneWithBuildSettings using Guid(085b3be374c645dbf5a1307e8143cdf6) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/2.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/2.unity'
+	Deserialize:            1.595 ms
+	Integration:            2.623 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       17.035 ms
+	Total Operation Time:   21.255 ms
+ -> (target hash: '97c9cde4573b372c930b539ee4e2e17d') in 0.100483 seconds
+  Import took 0.113041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/SceneDependencyCache/52fda436dc4245615ea15fc43acb2a84.sceneWithBuildSettings
+  artifactKey: Guid(52fda436dc4245615ea15fc43acb2a84) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/52fda436dc4245615ea15fc43acb2a84.sceneWithBuildSettings using Guid(52fda436dc4245615ea15fc43acb2a84) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/25.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/25.unity'
+	Deserialize:            1.684 ms
+	Integration:            3.973 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.509 ms
+	Total Operation Time:   23.170 ms
+ -> (target hash: 'a34f1b2bae180b699b9e560ada9db16b') in 0.108784 seconds
+  Import took 0.121057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SceneDependencyCache/368ea52e67b40520afb711f9c2e2c0b7.sceneWithBuildSettings
+  artifactKey: Guid(368ea52e67b40520afb711f9c2e2c0b7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/368ea52e67b40520afb711f9c2e2c0b7.sceneWithBuildSettings using Guid(368ea52e67b40520afb711f9c2e2c0b7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/6.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/6.unity'
+	Deserialize:            1.618 ms
+	Integration:            3.682 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.283 ms
+	Total Operation Time:   22.585 ms
+ -> (target hash: 'cfa39576aec305d34190f3a5f128e964') in 0.106396 seconds
+  Import took 0.117808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/SceneDependencyCache/3221e67ccd792c409544ece05a2e9f5f.sceneWithBuildSettings
+  artifactKey: Guid(3221e67ccd792c409544ece05a2e9f5f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/3221e67ccd792c409544ece05a2e9f5f.sceneWithBuildSettings using Guid(3221e67ccd792c409544ece05a2e9f5f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/22.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/22.unity'
+	Deserialize:            1.363 ms
+	Integration:            2.356 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.961 ms
+	Total Operation Time:   20.683 ms
+ -> (target hash: 'a3f5bee9ed80a66649b263989745de0d') in 0.101741 seconds
+  Import took 0.113461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SceneDependencyCache/2ee8a55747bb0ae7e806c6ca2fff52be.sceneWithBuildSettings
+  artifactKey: Guid(2ee8a55747bb0ae7e806c6ca2fff52be) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/2ee8a55747bb0ae7e806c6ca2fff52be.sceneWithBuildSettings using Guid(2ee8a55747bb0ae7e806c6ca2fff52be) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/12.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/12.unity'
+	Deserialize:            1.756 ms
+	Integration:            3.336 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       17.027 ms
+	Total Operation Time:   22.121 ms
+ -> (target hash: '489c1cafa0e12446ab28e7858077d261') in 0.102919 seconds
+  Import took 0.115061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/SceneDependencyCache/7154a7c0a4039e739c8ad57ec9ce7e63.sceneWithBuildSettings
+  artifactKey: Guid(7154a7c0a4039e739c8ad57ec9ce7e63) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/7154a7c0a4039e739c8ad57ec9ce7e63.sceneWithBuildSettings using Guid(7154a7c0a4039e739c8ad57ec9ce7e63) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/10.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/10.unity'
+	Deserialize:            1.864 ms
+	Integration:            3.825 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.077 ms
+	Total Operation Time:   22.769 ms
+ -> (target hash: '9401e93e5756316a2ac9935c511ce0f1') in 0.114215 seconds
+  Import took 0.126206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/SceneDependencyCache/756a22d5d2f6caee21e8698e07211f45.sceneWithBuildSettings
+  artifactKey: Guid(756a22d5d2f6caee21e8698e07211f45) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/756a22d5d2f6caee21e8698e07211f45.sceneWithBuildSettings using Guid(756a22d5d2f6caee21e8698e07211f45) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/11.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/11.unity'
+	Deserialize:            1.632 ms
+	Integration:            4.118 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.839 ms
+	Total Operation Time:   22.591 ms
+ -> (target hash: '5cf50ac300495fb28bc7cc507194117c') in 0.107734 seconds
+  Import took 0.119585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/SceneDependencyCache/59fed9c6a3063ea4d5dd030439163650.sceneWithBuildSettings
+  artifactKey: Guid(59fed9c6a3063ea4d5dd030439163650) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/59fed9c6a3063ea4d5dd030439163650.sceneWithBuildSettings using Guid(59fed9c6a3063ea4d5dd030439163650) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/4.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/4.unity'
+	Deserialize:            1.754 ms
+	Integration:            3.390 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.761 ms
+	Total Operation Time:   21.907 ms
+ -> (target hash: '5d392009fbcf7ffe5332f14a04d3a20f') in 0.102527 seconds
+  Import took 0.113440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SceneDependencyCache/0ac214f4cecdf9da3e580a0372e68b94.sceneWithBuildSettings
+  artifactKey: Guid(0ac214f4cecdf9da3e580a0372e68b94) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/0ac214f4cecdf9da3e580a0372e68b94.sceneWithBuildSettings using Guid(0ac214f4cecdf9da3e580a0372e68b94) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/15.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/15.unity'
+	Deserialize:            2.034 ms
+	Integration:            2.991 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       16.507 ms
+	Total Operation Time:   21.534 ms
+ -> (target hash: '1a2e2a13a0d6a10227f2bf0d6e2baa1e') in 0.110045 seconds
+  Import took 0.121346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/SceneDependencyCache/490a0a0cd0f1caf2b1a06934efeed946.sceneWithBuildSettings
+  artifactKey: Guid(490a0a0cd0f1caf2b1a06934efeed946) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/490a0a0cd0f1caf2b1a06934efeed946.sceneWithBuildSettings using Guid(490a0a0cd0f1caf2b1a06934efeed946) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/5.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/5.unity'
+	Deserialize:            1.745 ms
+	Integration:            3.716 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.889 ms
+	Total Operation Time:   22.353 ms
+ -> (target hash: 'c465ae5b7b8dc2f3683d01116b8f2818') in 0.102622 seconds
+  Import took 0.114239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/SceneDependencyCache/7ad89049e836de8c4dfeae7ed9e8a014.sceneWithBuildSettings
+  artifactKey: Guid(7ad89049e836de8c4dfeae7ed9e8a014) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/7ad89049e836de8c4dfeae7ed9e8a014.sceneWithBuildSettings using Guid(7ad89049e836de8c4dfeae7ed9e8a014) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/13.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/13.unity'
+	Deserialize:            1.597 ms
+	Integration:            2.790 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.624 ms
+	Total Operation Time:   22.014 ms
+ -> (target hash: 'babeeab3dbebeeda80b20f2e7489ae79') in 0.107271 seconds
+  Import took 0.118900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SceneDependencyCache/68b8e9a85920afe40523e32a982d46c0.sceneWithBuildSettings
+  artifactKey: Guid(68b8e9a85920afe40523e32a982d46c0) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/68b8e9a85920afe40523e32a982d46c0.sceneWithBuildSettings using Guid(68b8e9a85920afe40523e32a982d46c0) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/7.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/7.unity'
+	Deserialize:            1.850 ms
+	Integration:            4.265 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.827 ms
+	Total Operation Time:   22.945 ms
+ -> (target hash: '155c3c9c92c5d7e87b8858cb4bd744f7') in 0.109049 seconds
+  Import took 0.122756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/SceneDependencyCache/616dd975f72c490f81d9e55029291cde.sceneWithBuildSettings
+  artifactKey: Guid(616dd975f72c490f81d9e55029291cde) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/616dd975f72c490f81d9e55029291cde.sceneWithBuildSettings using Guid(616dd975f72c490f81d9e55029291cde) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/18.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/18.unity'
+	Deserialize:            1.561 ms
+	Integration:            2.833 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.789 ms
+	Total Operation Time:   21.186 ms
+ -> (target hash: 'ed6db40613b74d174927c2531ab7a0ee') in 0.099224 seconds
+  Import took 0.111354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/SceneDependencyCache/657e989c476e60fe764fea25ad8fe473.sceneWithBuildSettings
+  artifactKey: Guid(657e989c476e60fe764fea25ad8fe473) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/657e989c476e60fe764fea25ad8fe473.sceneWithBuildSettings using Guid(657e989c476e60fe764fea25ad8fe473) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/1.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/1.unity'
+	Deserialize:            1.538 ms
+	Integration:            3.000 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.479 ms
+	Total Operation Time:   22.021 ms
+ -> (target hash: '701ec63203c27987415af43d60722886') in 0.101724 seconds
+  Import took 0.115323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/SceneDependencyCache/e9004f8d5f9253381002dc230c1bbaf8.sceneWithBuildSettings
+  artifactKey: Guid(e9004f8d5f9253381002dc230c1bbaf8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/e9004f8d5f9253381002dc230c1bbaf8.sceneWithBuildSettings using Guid(e9004f8d5f9253381002dc230c1bbaf8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/3.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/3.unity'
+	Deserialize:            1.581 ms
+	Integration:            2.865 ms
+	Integration of assets:  0.005 ms
+	Thread Wait Time:       17.592 ms
+	Total Operation Time:   22.043 ms
+ -> (target hash: '1b6470e7823824002475bd53b3cb7a99') in 0.112242 seconds
+  Import took 0.123991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/SceneDependencyCache/aa151dab5bbeedc9d0d442f8a57fee11.sceneWithBuildSettings
+  artifactKey: Guid(aa151dab5bbeedc9d0d442f8a57fee11) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/aa151dab5bbeedc9d0d442f8a57fee11.sceneWithBuildSettings using Guid(aa151dab5bbeedc9d0d442f8a57fee11) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/23.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/23.unity'
+	Deserialize:            2.094 ms
+	Integration:            4.783 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       16.226 ms
+	Total Operation Time:   23.108 ms
+ -> (target hash: '41a984816e815df4e3f44053eb4c5826') in 0.107231 seconds
+  Import took 0.119449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/SceneDependencyCache/12b6a23b7ce85aab2c824377fdef810f.sceneWithBuildSettings
+  artifactKey: Guid(12b6a23b7ce85aab2c824377fdef810f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/12b6a23b7ce85aab2c824377fdef810f.sceneWithBuildSettings using Guid(12b6a23b7ce85aab2c824377fdef810f) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/16.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/16.unity'
+	Deserialize:            1.814 ms
+	Integration:            5.273 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.995 ms
+	Total Operation Time:   24.085 ms
+ -> (target hash: 'a943458e3e8e45c2a0d195b3caaba78e') in 0.109996 seconds
+  Import took 0.122181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/SceneDependencyCache/fb77e2f02f1fa62e4b2d2c991ccfae9a.sceneWithBuildSettings
+  artifactKey: Guid(fb77e2f02f1fa62e4b2d2c991ccfae9a) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/fb77e2f02f1fa62e4b2d2c991ccfae9a.sceneWithBuildSettings using Guid(fb77e2f02f1fa62e4b2d2c991ccfae9a) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/9.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/9.unity'
+	Deserialize:            1.323 ms
+	Integration:            2.199 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.122 ms
+	Total Operation Time:   20.647 ms
+ -> (target hash: '8824a003701987f7dc0e602d537f2b48') in 0.105207 seconds
+  Import took 0.117288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/SceneDependencyCache/44ef6446f1962e1b8a9302806b2715a8.sceneWithBuildSettings
+  artifactKey: Guid(44ef6446f1962e1b8a9302806b2715a8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/44ef6446f1962e1b8a9302806b2715a8.sceneWithBuildSettings using Guid(44ef6446f1962e1b8a9302806b2715a8) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/17.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/17.unity'
+	Deserialize:            1.450 ms
+	Integration:            3.303 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       17.519 ms
+	Total Operation Time:   22.276 ms
+ -> (target hash: '7d3985f60954732f7de7684d5c09e9a1') in 0.102995 seconds
+  Import took 0.114690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/SceneDependencyCache/8d3d18d1c66941ed2e95a1cfc4f46479.sceneWithBuildSettings
+  artifactKey: Guid(8d3d18d1c66941ed2e95a1cfc4f46479) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/8d3d18d1c66941ed2e95a1cfc4f46479.sceneWithBuildSettings using Guid(8d3d18d1c66941ed2e95a1cfc4f46479) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/21.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/21.unity'
+	Deserialize:            1.781 ms
+	Integration:            3.846 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.688 ms
+	Total Operation Time:   22.317 ms
+ -> (target hash: '89744cb12c430946203e155528b605cd') in 0.106515 seconds
+  Import took 0.117383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/SceneDependencyCache/deaf30dad1f8f03ed22c18e6dffaeca7.sceneWithBuildSettings
+  artifactKey: Guid(deaf30dad1f8f03ed22c18e6dffaeca7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/deaf30dad1f8f03ed22c18e6dffaeca7.sceneWithBuildSettings using Guid(deaf30dad1f8f03ed22c18e6dffaeca7) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/14.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/14.unity'
+	Deserialize:            1.544 ms
+	Integration:            2.569 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       16.859 ms
+	Total Operation Time:   20.974 ms
+ -> (target hash: 'b7c728cf3cc3830bbd5d4ff4df216703') in 0.103176 seconds
+  Import took 0.115239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/SceneDependencyCache/b90f7c59f59606de8a8e2603e9bfe16b.sceneWithBuildSettings
+  artifactKey: Guid(b90f7c59f59606de8a8e2603e9bfe16b) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/b90f7c59f59606de8a8e2603e9bfe16b.sceneWithBuildSettings using Guid(b90f7c59f59606de8a8e2603e9bfe16b) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Opening scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/24.unity additively'
+Loaded scene 'Assets/Models/polyperfect/Low Poly Ultimate Pack/04 - City/24.unity'
+	Deserialize:            1.526 ms
+	Integration:            2.829 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       17.504 ms
+	Total Operation Time:   21.862 ms
+ -> (target hash: '5e3a57ce3d9bf0f7ef3a0c41cc0af103') in 0.111251 seconds
+  Import took 0.124754 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008193 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 207.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 270ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.520 seconds
+Registering precompiled user dll's ...
+Registered in 0.420809 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 272ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.533 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 22 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.4 MB.
+System memory in use after: 200.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4814.
+Total: 5.844100 ms (FindLiveObjects: 0.987600 ms CreateObjectMapping: 0.200100 ms MarkObjects: 4.588500 ms  DeleteObjects: 0.067300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006021 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 210.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 268ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.729 seconds
+Registering precompiled user dll's ...
+Registered in 0.411515 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 319ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.649 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.4 MB.
+System memory in use after: 200.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4822.
+Total: 6.168100 ms (FindLiveObjects: 1.036900 ms CreateObjectMapping: 0.210600 ms MarkObjects: 4.848700 ms  DeleteObjects: 0.071100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006093 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 174.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 277ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.850 seconds
+Registering precompiled user dll's ...
+Registered in 0.395692 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 263ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.501 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.4 MB.
+System memory in use after: 200.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4830.
+Total: 6.008500 ms (FindLiveObjects: 1.002300 ms CreateObjectMapping: 0.204100 ms MarkObjects: 4.731100 ms  DeleteObjects: 0.070300 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006837 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 173.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 260ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.847 seconds
+Registering precompiled user dll's ...
+Registered in 0.393998 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 274ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.725 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.4 MB.
+System memory in use after: 200.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4838.
+Total: 6.839400 ms (FindLiveObjects: 1.020600 ms CreateObjectMapping: 0.203100 ms MarkObjects: 5.543800 ms  DeleteObjects: 0.071200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007462 seconds.
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 173.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 305ms
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

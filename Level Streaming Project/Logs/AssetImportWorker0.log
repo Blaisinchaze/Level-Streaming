@@ -1,0 +1,104 @@
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-BigBoiBlaise" (connect: 0.00s, validation: 0.00s, handshake: 1.20s)
+Entitlement-based licensing initiated
+[LicensingClient] Licenses updated successfully
+
+LICENSE SYSTEM [202134 0:56:29] Next license update check is after 2020-10-22T12:32:49
+
+
+LICENSE SYSTEM [202134 0:56:29] Current license is already valid and activated. Skipping license activation process (Provided username/password will be ignored).
+Built from '2020.1/staging' branch; Version is '2020.1.1f1 (2285c3239188) revision 2262467'; Using compiler version '192227905'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16346 MB
+[Licensing::Module] Serial number assigned to: "F4-JMVT-Q6P4-8KHV-39VM-XXXX"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Users\Charlie\Documents\My Games\2020.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Projects/LevelDtreamingProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51859
+Successfully changed project path to: F:/Projects/LevelDtreamingProject
+F:/Projects/LevelDtreamingProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 215.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.1.1f1 (2285c3239188)
+[Subsystems] Discovering subsystems at path E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Projects/LevelDtreamingProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6109
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Users/Charlie/Documents/My Games/2020.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006632 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 175.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.059 seconds
+Registering precompiled user dll's ...
+Registered in 0.426482 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 205.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+TypeManager.Initialize took: 308ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.802 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4179 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.8 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 4589.
+Total: 9.100700 ms (FindLiveObjects: 1.052300 ms CreateObjectMapping: 0.212300 ms MarkObjects: 7.731000 ms  DeleteObjects: 0.101900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SceneDependencyCache/33fc77a950ade0894dd2d6379a72c2f2.sceneWithBuildSettings
+  artifactKey: Guid(33fc77a950ade0894dd2d6379a72c2f2) Importer(2089858483,52bed625d08a7023a15481c3fbd73797)
+Start importing Assets/SceneDependencyCache/33fc77a950ade0894dd2d6379a72c2f2.sceneWithBuildSettings using Guid(33fc77a950ade0894dd2d6379a72c2f2) Importer(2089858483,52bed625d08a7023a15481c3fbd73797) Exception thrown during SubScene import: System.ArgumentNullException: Cannot add dependency on invalid path.
+Parameter name: path
+  at UnityEditor.Experimental.AssetImporters.AssetImportContext.DependsOnSourceAsset (System.String path) [0x0000c] in <4dfeb7acf9f44dd0adc2a4f68156471c>:0 
+  at Unity.Scenes.Editor.SubSceneImporter.OnImportAsset (UnityEditor.Experimental.AssetImporters.AssetImportContext ctx) [0x00045] in F:\Projects\LevelDtreamingProject\Library\PackageCache\com.unity.entities@0.16.0-preview.21\Unity.Scenes.Editor\SubSceneImporter.cs:104 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Unity.Debug:Log(Object) (at Library\PackageCache\com.unity.entities@0.16.0-preview.21\Unity.Entities\Stubs\Unity\Debug.cs:17)
+Unity.Scenes.Editor.SubSceneImporter:OnImportAsset(AssetImportContext) (at Library\PackageCache\com.unity.entities@0.16.0-preview.21\Unity.Scenes.Editor\SubSceneImporter.cs:167)
+UnityEditor.Experimental.AssetImporters.ScriptedImporter:GenerateAssetData(AssetImportContext)
+ 
+(Filename: Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Stubs/Unity/Debug.cs Line: 17)
+
+ -> (target hash: 'b4b94fde0d6fc234308b9b04bba0afe1') in 0.076846 seconds
+  Import took 0.091193 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
